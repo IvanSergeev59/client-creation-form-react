@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/client-creation-form-react/static/css/main.d2a1e416.css",
-    "main.js": "/client-creation-form-react/static/js/main.c766b8cd.js",
+    "main.css": "/client-creation-form-react/static/css/main.f471b6b8.css",
+    "main.js": "/client-creation-form-react/static/js/main.06cfa5a0.js",
     "index.html": "/client-creation-form-react/index.html",
-    "main.d2a1e416.css.map": "/client-creation-form-react/static/css/main.d2a1e416.css.map",
-    "main.c766b8cd.js.map": "/client-creation-form-react/static/js/main.c766b8cd.js.map"
+    "main.f471b6b8.css.map": "/client-creation-form-react/static/css/main.f471b6b8.css.map",
+    "main.06cfa5a0.js.map": "/client-creation-form-react/static/js/main.06cfa5a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2a1e416.css",
-    "static/js/main.c766b8cd.js"
+    "static/css/main.f471b6b8.css",
+    "static/js/main.06cfa5a0.js"
   ]
 }
